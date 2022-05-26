@@ -15,6 +15,7 @@
 		5216AE62283D1D1A00EEFA6B /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5216AE61283D1D1A00EEFA6B /* Color.swift */; };
 		5216AE64283D204E00EEFA6B /* Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5216AE63283D204E00EEFA6B /* Matrix.swift */; };
 		5216AE66283D24FC00EEFA6B /* VerticalButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5216AE65283D24FC00EEFA6B /* VerticalButtonStyle.swift */; };
+		52BA3A9D283FDF1900E2EC42 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52BA3A9C283FDF1900E2EC42 /* ViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		5216AE61283D1D1A00EEFA6B /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
 		5216AE63283D204E00EEFA6B /* Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Matrix.swift; sourceTree = "<group>"; };
 		5216AE65283D24FC00EEFA6B /* VerticalButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerticalButtonStyle.swift; sourceTree = "<group>"; };
+		52BA3A9C283FDF1900E2EC42 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				5216AE51283D18FB00EEFA6B /* SwiftUi_CalculadoraApp.swift */,
 				5216AE53283D18FB00EEFA6B /* ContentView.swift */,
+				52BA3A9C283FDF1900E2EC42 /* ViewModel.swift */,
 				5216AE55283D18FD00EEFA6B /* Assets.xcassets */,
 				5216AE57283D18FD00EEFA6B /* Preview Content */,
 				5216AE5F283D193E00EEFA6B /* Model.swift */,
@@ -155,6 +158,7 @@
 				5216AE66283D24FC00EEFA6B /* VerticalButtonStyle.swift in Sources */,
 				5216AE54283D18FB00EEFA6B /* ContentView.swift in Sources */,
 				5216AE52283D18FB00EEFA6B /* SwiftUi_CalculadoraApp.swift in Sources */,
+				52BA3A9D283FDF1900E2EC42 /* ViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
